@@ -1,3 +1,26 @@
-## 存放一些学习过程中收集到的一些资料
+> $\tt pdf$ 需要下载下来查看喔～
 
-$\tt pdf$ 需要下载下来查看喔～
+# 刷题Online Judge
+
+**[acwing](https://ac.nowcoder.com/)**
+
+**[atcoder](https://atcoder.jp/)**
+
+**[codechef](https://www.codechef.com/)**
+
+**[codeforces](https://codeforces.com/)**
+
+**[力扣](https://leetcode.cn/)**/**[Leetcode](https://leetcode.com/)**
+
+**[洛谷luogu](https://www.luogu.com.cn/)**
+
+**[牛客nowcoder](https://ac.nowcoder.com/)**
+
+**[Vjudge](https://vjudge.net/)**
+
+# 学习网站
+
+**[yukiyama](https://iyukiyama.github.io/)**
+
+**[oi-wiki](https://oi-wiki.org)**
+
