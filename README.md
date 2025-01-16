@@ -18,6 +18,8 @@
 
 **[Vjudge](https://vjudge.net/)**
 
+**[UCUP](https://ucup.ac/)**
+
 # 学习网站
 
 **[oi-wiki](https://oi-wiki.org)**
